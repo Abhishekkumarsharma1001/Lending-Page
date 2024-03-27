@@ -24,6 +24,9 @@ This is a simple lending page designed to help users plan their vacations. It ut
 - This project is created by [Abhishek Kumar Sharma](https://www.linkedin.com/in/abhishek-kumar-sharma-3b2bb0213).
 - Images used in the project are sourced from [GOOGLE].
 
+**Preview:**
+![Screenshot 1](https://github.com/Abhishekkumarsharma1001/Lending-Page/blob/main/Screenshot%202024-03-27%20195818.png).
+
 **Demo:**</br>
 [Link to Live Demo](https://bit.ly/planatripwithabhi)
 
