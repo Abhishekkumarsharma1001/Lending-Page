@@ -30,7 +30,7 @@ This is a simple lending page designed to help users plan their vacations. It ut
 **Demo:**</br>
 [Link to Live Demo](https://bit.ly/planatripwithabhi)
 
-**Contact:**
+**Contact:** </br>
 For any inquiries or support, please contact [abhikumarsharma146@gmail.com].
 
 **Enjoy planning your dream vacation with us!**
