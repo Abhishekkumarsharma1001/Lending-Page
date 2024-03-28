@@ -1,4 +1,4 @@
-**Vacation Lending Page**
+# Vacation Lending Page
 
 This is a simple lending page designed to help users plan their vacations. It utilizes HTML, CSS, and JavaScript to provide a user-friendly interface for browsing vacation destinations, selecting packages, and contacting the lending service for booking.
 
